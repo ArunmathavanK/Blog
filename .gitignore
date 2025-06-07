@@ -7,3 +7,5 @@ db.sqlite3
 /media/
 .vscode/
 *.sqlite3
+BLOGG/localhost.crt
+BLOGG/localhost.key
