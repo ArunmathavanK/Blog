@@ -9,3 +9,5 @@ db.sqlite3
 *.sqlite3
 BLOGG/localhost.crt
 BLOGG/localhost.key
+BLOGG/.env.production
+BLOGG-backup/.env.production

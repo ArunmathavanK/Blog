@@ -31,11 +31,11 @@ ALLOWED_HOSTS = [
     'arunblog.com',
     '127.0.0.1',
     'localhost',
-    '23e5-157-49-232-216.ngrok-free.app',
+    '842b-157-49-219-109.ngrok-free.app',
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://23e5-157-49-232-216.ngrok-free.app',
+    'https://842b-157-49-219-109.ngrok-free.app',
 ]
 
 
@@ -164,7 +164,6 @@ AWS_DEFAULT_ACL = None
 AWS_S3_SIGNATURE_VERSION = 's3v4'
 AWS_S3_REGION_NAME = 'ap-southeast-2'
 AWS_S3_ADDRESSING_STYLE = "virtual" 
-AWS_QUERYSTRING_AUTH = False 
 
 DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 MEDIA_URL = f'https://{AWS_STORAGE_BUCKET_NAME}.s3.{AWS_S3_REGION_NAME}.amazonaws.com/' 
