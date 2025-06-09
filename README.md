@@ -1,4 +1,5 @@
-Django Blog project
+                                       Django Blog project
+                                       
 I've been learning python for the past one year. Doing some small projects like this has helped me for stong foundation in key understanding concepts. In this project I created using:
    -  Python and Django for backend
    -  HTML and CSS for frontend design
@@ -39,15 +40,11 @@ Here I attached all the screenshots:
       Navigates through blog posts across multiple pages.
       ![Pagination Page](images/pagination.png)
       
-   8. Homepage  
-      Main page displaying all recent blog posts.
-      ![Homepage](images/homepage.png)
-      
-   9. Ngrok Secure Page  
+   8. Ngrok Secure Page  
       Secure login testing using Ngrok tunnel.
       ![Ngrok Page](images/ngrok_secure.png)
       
-  10. Custom Domain Setup (Optional)
+   9. Custom Domain Setup (Optional)
       Project configured with a custom domain.
       ![Custom Domain](images/custom_domain.png)
 
