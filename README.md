@@ -3,7 +3,7 @@ I've been learning python for the past one year. Doing some small projects like 
    -  Python and Django for backend
    -  HTML and CSS for frontend design
    -  User authentication
-   -  Post management
+   -  CRUD Operations
    -  Email sending
    -  Pagination
    -  Ngrok for secure testing
@@ -51,11 +51,8 @@ Here I attached all the screenshots:
       Project configured with a custom domain.
       ![Custom Domain](images/custom_domain.png)
 
-Project Setup
-
 To run this project locally:
-
-```bash
+```gitbash
 git clone https://github.com/ArunmathavanK/Blog.git
 cd Blog
 python -m venv venv
@@ -63,3 +60,5 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+#create a .env file if you using secret details
