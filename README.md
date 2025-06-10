@@ -11,39 +11,39 @@ I've been learning python for the past one year. Doing some small projects like 
 
 Here I attached all the screenshots:
 
-   1. Register Page
+   1. Register Page:
       Users can create a new account to access blog features.
       ![Register Page](images/register.png)
 
-   2. Login Page  
+   2. Login Page:
       Login with a registered email and password.
       ![Login Page](images/login.png)
       
-   3. Logout Confirmation  
+   3. Logout Confirmation:  
       Log out securely with confirmation.
       ![Logout Page](images/logout.png)
  
-   4. Email Sent Page  
+   4. Email Sent Page:  
       Confirmation after password reset or registration email is sent.
       [Email Sent Page](images/email_sent.png)
       
-   5. New Post Page  
+   5. New Post Page:  
       Create a new blog post with a title and content.
       ![New Post Page](images/new_post.png)
 
-   6. Profile Page  
+   6. Profile Page:
       Displays user profile information and posts authored.
       ![Profile Page](images/profile.png)
 
-   7. Pagination Page  
+   7. Pagination Page:  
       Navigates through blog posts across multiple pages.
       ![Pagination Page](images/pagination.png)
       
-   8. Ngrok Secure Page  
+   8. Ngrok Secure Page: 
       Secure login testing using Ngrok tunnel.
       ![Ngrok Page](images/ngrok_secure.png)
       
-   9. Custom Domain Setup (Optional)
+   9. Custom Domain Setup:
       Project configured with a custom domain.
       ![Custom Domain](images/custom_domain.png)
 
