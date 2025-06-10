@@ -1,6 +1,6 @@
                                        Django Blog project
                                        
-I've been learning python for the past one year. Doing some small projects like this has helped me for stong foundation in key understanding concepts. In this project I created using Python and Django for backend, HTML and CSS for frontend design. 
+I've been learning python for the past one year. Doing some small projects like this has helped me for stong foundation in key understanding concepts. In this project I created using Python and Django for backend, HTML, CSS and Bootstrap for frontend design. 
 
    -  User authentication
    -  CRUD Operations
